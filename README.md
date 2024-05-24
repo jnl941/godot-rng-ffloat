@@ -1,4 +1,5 @@
 # Info about fork
+Done as an Erasmus student project in the university Hochschule der Medien during the winter semester 2022/23. Reuploaded 14th May 2024.
 Implemented several randomisation algorithms which can be found at:
 - core/math/random_number_generator.cpp
 - core/math/random_pcg.cpp
