@@ -1,3 +1,12 @@
+# Info about fork
+Implemented several randomisation algorithms which can be found at:
+- core/math/random_number_generator.cpp
+- core/math/random_pcg.cpp
+- core/math/random_split64.cpp
+- core/math/random_xosh128.cpp
+- core/math/random_xsh128.cpp
+- core/math/random.cpp
+
 # Godot Engine
 
 <p align="center">
